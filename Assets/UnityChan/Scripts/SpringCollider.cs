@@ -22,4 +22,4 @@ namespace UnityChan
 			Gizmos.DrawWireSphere (transform.position, radius);
 		}
 	}
-}
+}hhju
